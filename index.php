@@ -7,6 +7,12 @@
     <title>php info</title>
 </head>
 <body>
+
+    <nav>
+        <ul>
+            <li><a href="pages/biodata.php">Biodata</a></li>
+        </ul>
+    </nav>
     
     <h1>
         ini adalah test PHP
@@ -15,6 +21,5 @@
     <?php
     phpinfo();
     ?>
-
 </body>
 </html>
