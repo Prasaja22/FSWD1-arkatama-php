@@ -9,7 +9,7 @@
     applications using the Flutter framework. Currently looking for opportunities
     in the field of Full Stack developer, Back End, or Front End to improve skills.";
     $birth = "Malang, 13 April 2002";
-    $gender = "male";
+    $gender = "Male";
     $address = "Jl. Kendalpayak gang cempaka rt 03 rw 03, Kec.Pakisaji Kab.Malang Malang Jawa Timur";
     $educations = ["Politeknik Negeri Malang", "SMK Negeri 4 Malang","SMP Negeri 1 Bululawang",];
 
